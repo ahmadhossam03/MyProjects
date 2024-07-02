@@ -5,5 +5,14 @@
 }
 
 {Prolog
-1- ( Cycle Finder AI Program )
+( Cycle Finder AI Program )
+}
+
+
+{Othello Game
+( Using Python Player vs AI )
+}
+
+{
+( Malware analysis report )
 }
